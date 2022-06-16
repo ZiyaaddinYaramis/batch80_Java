@@ -128,5 +128,8 @@ public class C09_Odevler {
 
 
         System.out.println("Isim - soyisim : "+ isim+ " " +soyisim);
+
+
+
     }
 }
