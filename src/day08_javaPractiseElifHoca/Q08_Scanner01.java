@@ -18,6 +18,7 @@ public class Q08_Scanner01 {
         int sayi2 = scan.nextInt();
 
         System.out.println("iki sayinin toplami : " + (sayi1 + sayi2));
+
     }
 
 }
