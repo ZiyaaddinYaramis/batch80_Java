@@ -1,6 +1,6 @@
 package day12_stringManipulations;
 
-public class day12_stringManipulations {
+public class C01_replace {
     public static void main(String[] args) {
 
         String str= " Bu gun ha va cok guz el ";
