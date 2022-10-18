@@ -1,6 +1,6 @@
 package day23_arrays;
 
-public class C04_Arrays {
+public class C04_ArrayElementleriToplama {
     public static void main(String[] args) {
 
 

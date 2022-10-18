@@ -2,7 +2,7 @@ package day23_arrays;
 
 import java.util.Arrays;
 
-public class C03_Arrays {
+public class C03_ArrayElementleriniArtirma {
 
     public static void main(String[] args) {
 
