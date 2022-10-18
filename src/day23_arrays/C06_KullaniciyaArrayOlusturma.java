@@ -28,7 +28,7 @@ public class C06_KullaniciyaArrayOlusturma {
 
         int length= scan.nextInt();
 
-        int[] kullaniciArrayi = new int[length];
+        int[] kullaniciArrayi = new int[length]; // object yani array'imizi olusturduk
 
         for (int i = 0; i <length ; i++) {
 

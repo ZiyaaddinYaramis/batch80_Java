@@ -47,7 +47,7 @@ public class Arrays01 {
         System.out.println(Arrays.toString(takim)); // [Ali, Veli, Hasan]
 
         // takim[3]="Mehmet";   // Java Run time programdir, dolayisiyla array programi calistirilinca
-        // olusturulur. 42. satirda syntax olarak hata olmadigindan CTE olmaz
+        // olusturulur. 49. satirda syntax olarak hata olmadigindan CTE olmaz
         // program calistiginda 3. index olmadigi icin RTE verir
 
         // Array'deki bir elemani update
