@@ -20,11 +20,16 @@ public class AHemsireRunner {
         h2.personelIsim = "Hatice";
         h2.personelAdresi = "Sincan";
         h2.personelTelefon = "3124323232";
-        h2.bashekimIsmi = "Yasar Kemal";
+        h2.bashekimIsmi = "Yasar Kemal"; // static bir variable 'a atama yaptigimiz andan itibaren butun objelerin
+                                         // ilgili degeri degisir  (bashekimIsmi    Yasar Kemal'dir)
 
 
         System.out.println("h1 : " + h1);
         System.out.println("h2 : " + h2);
+
+        AHemsire h3 = new AHemsire();
+
+        System.out.println(h3);
 
 
     }
