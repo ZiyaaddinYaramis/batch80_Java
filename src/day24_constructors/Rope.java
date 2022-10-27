@@ -2,9 +2,11 @@ package day24_constructors;
 
 public class Rope {
 
+    // Constructor ve contructor call olusturalim
+
 
     Rope(){
-        this("Hasan");
+        this("Hasan"); // constructer call
     }
 
     Rope(String isim){
