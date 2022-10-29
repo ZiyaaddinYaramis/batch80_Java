@@ -18,13 +18,13 @@ public class C02_PassByValueList {
         sayilar.add(30);
 
 
-        elementleri5Artir(sayilar);
-        elementleri5Artir(sayilar);
-        elementleri5Artir(sayilar);
+        elementleri5Artir(sayilar); // [15, 25, 35]
+        elementleri5Artir(sayilar); // [20, 30, 40]
+        elementleri5Artir(sayilar); // [25, 35, 45]
 
 
         // method call sonrasi main method icerisinde list'i tekrar yazdiralim
-        System.out.println("Method call sonrasi main method'da list : " +sayilar);
+        System.out.println("Method call sonrasi main method'da list : " +sayilar); // [25, 35, 45]
     }
 
 
