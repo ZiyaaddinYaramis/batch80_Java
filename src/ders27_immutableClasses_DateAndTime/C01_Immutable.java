@@ -9,6 +9,11 @@ public class C01_Immutable {
 
         String str = "Ali";
 
+        for (int i = 0; i <10 ; i++) {
+            str+=".";
+        }
+        System.out.println(str);
+
 
     }
 
