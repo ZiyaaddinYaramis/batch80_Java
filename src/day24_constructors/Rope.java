@@ -6,8 +6,14 @@ public class Rope {
 
 
     Rope(){
+
+
+
         this("Hasan"); // constructer call
     }
+
+
+
 
     Rope(String isim){
 

@@ -1,4 +1,4 @@
-package ders26_ders27_repeat;
+package ders26_ders27_repeat_PassByValue_ImmutableClass;
 
 import java.util.ArrayList;
 import java.util.List;

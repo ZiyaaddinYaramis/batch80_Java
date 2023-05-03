@@ -1,4 +1,4 @@
-package ders26_ders27_repeat;
+package ders26_ders27_repeat_PassByValue_ImmutableClass;
 
 public class C5_Immutable02 {
 

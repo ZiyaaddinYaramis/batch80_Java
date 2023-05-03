@@ -1,4 +1,4 @@
-package ders26_ders27_repeat;
+package ders26_ders27_repeat_PassByValue_ImmutableClass;
 
 public class C2_PassByValue02 {
     public static void main(String[] args) {
@@ -15,6 +15,8 @@ public class C2_PassByValue02 {
         System.out.println("%10 indirimli fiyat : " + indirimUygula10(fiyat));
         System.out.println("%20 indirimli fiyat : " + indirimUygula20(fiyat));
         System.out.println("%25 indirimli fiyat : " + indirimUygula25(fiyat));
+
+
         System.out.println("method call'dan sonra fiyat : " + fiyat);
         //double fiyat;
 
