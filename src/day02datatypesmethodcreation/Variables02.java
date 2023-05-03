@@ -27,6 +27,9 @@ public class Variables02 {
     *Non-primitive ler icin java memory de buyuklugune gore degisen boyutlarda yer ayirir
      */
     public static void main(String[] args) {
+
+        //Ornek 1: Ulke ismi icin bir variable olusturun ve bir deger atayip console a yazdirin
+
         String ulkeIsmi = "Turkiye";
         System.out.println(ulkeIsmi);
     }
