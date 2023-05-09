@@ -18,8 +18,12 @@ public class Scanner01 {
 
         String lastName = scan.next();
 
+        // next() methodu kullanicidan  ¨tek kelimeli string¨ almak icin kullanilir
+
 
         System.out.println("ilkIsim + soyIsim = "+ firstName + lastName);
+
+        scan.close();
 
 
 
