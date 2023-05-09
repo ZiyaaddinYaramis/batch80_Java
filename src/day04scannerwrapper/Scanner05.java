@@ -31,11 +31,17 @@ public class Scanner05 {
 
         int binlerBasamagi = number % 10;
 
-        number = number / 10;
+        number = number / 10; //1
 
         int onBinlerBasamagi= number;
 
         System.out.println(birlerBasamagi+onlarBasamagi+binlerBasamagi+onBinlerBasamagi); //12
+
+        // Homework
+        // 1) Kullanicidan aldiginiz  3 tane sayinin ortalamasini bulan kod yaziniz
+        // örn; 3,4,5 icin ortalama (3+4+5)/3
+        // 2) Kullanicidan aldiginiz 3 basamakli bir sayinin rakamlari toplamini bulunuz
+        // örn; 321 icin 3+2+1
 
 
 
