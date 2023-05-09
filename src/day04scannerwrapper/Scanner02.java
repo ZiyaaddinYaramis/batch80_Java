@@ -12,7 +12,9 @@ public class Scanner02 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Lutfen adresinizi giriniz");
-        
+
+
+        // nextLine() methodu kullanicidan cok kelimeli string almak icin kullanilir
         String adress = input.nextLine();
 
         System.out.println("adress = " + adress);
