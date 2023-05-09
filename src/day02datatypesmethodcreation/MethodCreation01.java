@@ -52,7 +52,7 @@ public class MethodCreation01 {
 
         HOMEWORK
         Tekrar01 clası oluştur tüm yapılanları tekrar yap.
-        1)  Dikdörtgenin alanini hesaplayan methodu olusturun ve kullaniniz
+        1) Dikdörtgenin alanini hesaplayan methodu olusturun ve kullaniniz
         2) Dikdörtgenin cevresini hesaplayan methodu olusturun ve kullaniniz
         */
     }
