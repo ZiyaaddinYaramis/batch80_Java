@@ -39,7 +39,7 @@ public class DoWhileLoop03 {
 
         } while (true);
 
-
+        input.close();
 
     }
 }
