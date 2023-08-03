@@ -71,7 +71,7 @@ public class WhileLoop02 {
         System.out.println(sonuc);
 
 
-
+        input.close();
 
     }
 }
